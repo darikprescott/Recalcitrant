@@ -31,7 +31,7 @@ Contribution
 We welcome contributions! Please fork the repository and submit a pull request with detailed changes.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the APACHE 2.0.
 
 
 There will be more to get involved and some data to go off of, but fo now its a slow start but from here id like to see how we can change the nfc and tokenization industry making sure peoples wallets secured after an understanding of the saftey of users accounts and information.  Thank you for your time and effort!
